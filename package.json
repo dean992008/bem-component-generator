@@ -1,0 +1,16 @@
+{
+  "name": "bem-component-generator",
+  "version": "0.1.0",
+  "description": "Module for generate bem component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {}
+}
